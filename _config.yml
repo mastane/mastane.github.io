@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mastane Achab"
   avatar           : "mastane_dz.jpg"
-  bio              : "Postdoc researcher in artificial intelligence at [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml/people), currently bridging the gap between distributional reinforcement learning and robust Markov decision processes."
+  bio              : "Postdoc researcher in artificial intelligence at <a href="https://www.upf.edu/web/ai-ml/people">Universitat Pompeu Fabra</a>, currently bridging the gap between distributional reinforcement learning and robust Markov decision processes."
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
