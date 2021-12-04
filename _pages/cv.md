@@ -14,6 +14,7 @@ Education
 * M.S. in applied maths, Ecole polytechnique, 2015
 * M.S. in machine learning, Ecole normale superieure de Cachan, 2016
 * Ph.D in machine learning, <a href='https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci'>LTCI lab</a>, Telecom Paris, 2020
+  * Thesis: <a href='https://www.theses.fr/2020IPPAT020'>Ranking and risk-aware reinforcement learning</a>
   * Supervisors: <a href='https://perso.telecom-paristech.fr/clemenco/'>Stephan Clemencon</a>, <a href='https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html'>Aurelien Garivier</a> and <a href='https://perso.telecom-paristech.fr/sabourin/index.html#generalInfo'>Anne Sabourin</a>
 
 Work experience
