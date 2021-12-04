@@ -19,12 +19,10 @@ Work experience
 ======
 * Spring/Summer 2019: PhD internship
   * <a href='https://deepmind.com/'>Google DeepMind</a>
-  * Duties included: Tagging issues
   * Supervisor: <a href='https://pro.univ-lille.fr/bilal-piot/'>Bilal Piot</a>
 
-* Since Fall 2020: Research Assistant
+* Since Fall 2020: Postdoc
   * <a href='https://www.upf.edu/web/ai-ml/people'>Universitat Pompeu Fabra</a>
-  * Duties included: Merging pull requests
   * Supervisor: <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
 
 Skills
