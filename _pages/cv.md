@@ -22,7 +22,7 @@ Work experience
   * Supervisor: <a href='https://pro.univ-lille.fr/bilal-piot/'>Bilal Piot</a>
 
 * Since Fall 2020: Postdoc
-  * <a href='https://www.upf.edu/web/ai-ml/people'>Universitat Pompeu Fabra</a>
+  * <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>, <a href='https://www.upf.edu/web/etic/'>DTIC</a>, <a href='https://www.upf.edu/'>Universitat Pompeu Fabra</a>
   * Supervisor: <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
 
 Skills
