@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Spring/Summer 2019: PhD internship
-  * <a href='https://deepmind.com/'>Google DeepMind</a>
+  * <a href='https://deepmind.com/'>Google DeepMind</a> (London office)
   * Supervisor: <a href='https://pro.univ-lille.fr/bilal-piot/'>Bilal Piot</a>
 
 * Since Fall 2020: Postdoc
