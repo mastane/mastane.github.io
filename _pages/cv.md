@@ -24,7 +24,7 @@ Work experience
   * Supervisors: <a href='https://misovalko.github.io/'>Michal Valko</a> and <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
 
 * Spring/Summer 2019: PhD internship
-  * <a href='https://deepmind.com/'>Google DeepMind</a> (London office)
+  * <a href='https://deepmind.com/'>Google DeepMind</a>, London
   * Supervisor: <a href='https://pro.univ-lille.fr/bilal-piot/'>Bilal Piot</a>
 
 * Since Fall 2020: Postdoc
