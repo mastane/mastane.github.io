@@ -13,7 +13,7 @@ Education
 ======
 * M.S. in applied maths, <a href='https://www.polytechnique.edu/'>Ecole polytechnique</a>, 2015
 * M.S. in machine learning (<a href='https://www.master-mva.com/'>M2 MVA</a>), <a href='https://ens-paris-saclay.fr/'>Ecole normale superieure de Cachan</a>, 2016
-* Ph.D. in machine learning, <a href='https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci'>LTCI lab</a>, Telecom Paris, 2020
+* Ph.D. in machine learning, <a href='https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci'>LTCI lab</a>, <a href='https://www.telecom-paris.fr/'>Telecom Paris</a>, 2020
   * Thesis: <a href='https://www.theses.fr/2020IPPAT020'>Ranking and risk-aware reinforcement learning</a>
   * Supervisors: <a href='https://perso.telecom-paristech.fr/clemenco/'>Stephan Clemencon</a>, <a href='https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html'>Aurelien Garivier</a> and <a href='https://perso.telecom-paristech.fr/sabourin/index.html#generalInfo'>Anne Sabourin</a>
 
