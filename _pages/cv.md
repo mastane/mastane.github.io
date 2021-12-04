@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* Spring/Summer 2015: Research internship
+  * <a href='https://team.inria.fr/sequel/'>SequeL team</a>, <a href='https://www.inria.fr/fr/centre-inria-lille-nord-europe'>INRIA Lille-Nord Europe</a>
+  * Supervisors: <a href='https://misovalko.github.io/'>Michal Valko</a> and <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
+
 * Spring/Summer 2019: PhD internship
   * <a href='https://deepmind.com/'>Google DeepMind</a> (London office)
   * Supervisor: <a href='https://pro.univ-lille.fr/bilal-piot/'>Bilal Piot</a>
