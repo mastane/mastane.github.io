@@ -10,4 +10,4 @@ paperurl: 'http://proceedings.mlr.press/v95/achab18a/achab18a.pdf'
 ---
 co-authors: S. Clémençon, A. Garivier
 
-[Download paper here](http://proceedings.mlr.press/v95/achab18a/achab18a.pdf)
+Download [paper](http://proceedings.mlr.press/v95/achab18a/achab18a.pdf)

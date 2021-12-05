@@ -10,4 +10,4 @@ paperurl: 'http://proceedings.mlr.press/v98/achab19a/achab19a.pdf'
 ---
 co-authors: A. Korba, S. Clémençon
 
-[Download paper here](http://proceedings.mlr.press/v98/achab19a/achab19a.pdf)
+Download [paper](http://proceedings.mlr.press/v98/achab19a/achab19a.pdf)
