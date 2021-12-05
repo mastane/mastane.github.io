@@ -1,5 +1,5 @@
 ---
-title: "Max K-Armed Bandit: On the ExtremeHunter Algorithm and Beyond"
+title: "Max K-armed bandit: on the ExtremeHunter algorithm and beyond"
 collection: publications
 permalink: /publication/2017-09-18-extreme-bandits
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
