@@ -10,4 +10,4 @@ paperurl: 'http://ecmlpkdd2017.ijs.si/papers/paperID150.pdf'
 ---
 co-authors: S. Clémençon, A. Garivier, A. Sabourin, C. Vernade
 
-Download [paper](http://ecmlpkdd2017.ijs.si/papers/paperID150.pdf)
+Download [paper](http://ecmlpkdd2017.ijs.si/papers/paperID150.pdf) or [slides](http://mastane.github.io/files/slides_ecml.pdf)
