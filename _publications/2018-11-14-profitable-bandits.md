@@ -10,4 +10,4 @@ paperurl: 'http://proceedings.mlr.press/v95/achab18a/achab18a.pdf'
 ---
 co-authors: S. Clémençon, A. Garivier
 
-Download [paper](http://proceedings.mlr.press/v95/achab18a/achab18a.pdf) or [slides](http://mastane.github.io/files/slides_acml2018.pdf)
+Download [paper](http://proceedings.mlr.press/v95/achab18a/achab18a.pdf) or [slides](http://mastane.github.io/files/slides_acml2018.pdf) or [poster](http://mastane.github.io/files/poster_bandits4P.pdf)
