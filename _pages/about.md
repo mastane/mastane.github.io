@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mastane Achab's home page"
+title: "Mastane Achab's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from:
