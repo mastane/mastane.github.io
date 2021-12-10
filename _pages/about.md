@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Mastane Achab's home page"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mastane, a postdoc researcher in artificial intelligence at the <a href='https://www.upf.edu/'>Universitat Pompeu Fabra</a> (Barcelona)
+Welcome! I'm Mastane, a postdoc researcher in artificial intelligence at the <a href='https://www.upf.edu/'>Universitat Pompeu Fabra</a> (Barcelona)
 among the <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>. My research interests include:
 * ranking by empirical risk minimization
 * multi-armed bandits
