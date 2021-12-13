@@ -19,15 +19,15 @@ Education
 
 Work experience
 ======
-* Spring/Summer 2015: Research internship
+* Spring and summer 2015: Research internship
   * <a href='https://team.inria.fr/sequel/'>SequeL team</a>, <a href='https://www.inria.fr/fr/centre-inria-lille-nord-europe'>INRIA Lille-Nord Europe</a>, Villeneuve-d'Ascq, France
   * Supervisors: <a href='https://misovalko.github.io/'>Michal Valko</a> and <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
 
-* Spring/Summer 2019: PhD internship
+* Spring and summer 2019: PhD internship
   * <a href='https://deepmind.com/'>Google DeepMind</a>, London, UK
   * Supervisor: <a href='https://pro.univ-lille.fr/bilal-piot/'>Bilal Piot</a>
 
-* Since Fall 2020: Postdoc
+* Fall 2020 to fall 2021: Postdoc
   * <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>, <a href='https://www.upf.edu/web/etic/'>DTIC</a>, <a href='https://www.upf.edu/'>Universitat Pompeu Fabra</a>, Barcelona, Spain
   * Supervisor: <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
 
