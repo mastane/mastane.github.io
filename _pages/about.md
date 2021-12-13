@@ -12,6 +12,6 @@ Welcome! I'm Mastane, a postdoc researcher in artificial intelligence at the <a 
 among the <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>. My research interests include:
 * ranking by empirical risk minimization
 * multi-armed bandits
-* distributional reinforcement learning
+* (distributional) reinforcement learning
 * risk-aware Markov decision processes
 * artificial neural networks...
