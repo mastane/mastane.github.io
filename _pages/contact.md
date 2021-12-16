@@ -5,4 +5,4 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* Emails: mastane.achab [at] gmail.com, mastanhab [at] icloud.com
+* Emails: mastane.achab [at] gmail.com, mastanhab [at] linux.com
