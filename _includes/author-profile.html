@@ -109,6 +109,9 @@
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="fas fa-fw fa-book-dead"></i> arXiv</a></li>
       {% endif %}
+      {% if author.openreview %}
+        <li><a href="{{ author.openreview }}"><i class="fas fa-fw fa-book-reader"></i> OpenReview</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
