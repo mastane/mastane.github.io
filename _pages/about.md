@@ -14,4 +14,4 @@ among the <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>. My research int
 * multi-armed bandits
 * (distributional) reinforcement learning
 * risk-aware Markov decision processes
-* artificial neural networks...
+* artificial neural networks..
