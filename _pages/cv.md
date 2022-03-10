@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} (Download ) <a href='http://mastane.github.io/files/cv_mastane_achab.pdf.pdf'>cv_mastane_achab.pdf</a>
 
 Education
 ======
