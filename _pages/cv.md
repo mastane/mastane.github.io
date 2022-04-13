@@ -45,4 +45,4 @@ Publications
   {% endfor %}</ul>
 
 ![](/images/I_review_JMLR.gif)
-<img src="https://mastane.github.io/images/I_review_JMLR.gif" width="50%" height="50%">
+<img src="https://mastane.github.io/images/I_review_JMLR.gif" width="20%" height="20%">
