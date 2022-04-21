@@ -13,4 +13,4 @@ among the <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>. My research int
 * ranking by empirical risk minimization
 * multi-armed bandit
 * (distributional) reinforcement learning
-* artificial neural networks & high-dimensional checkerboards
+* the checkered regression model
