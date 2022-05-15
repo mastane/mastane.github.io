@@ -5,4 +5,4 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-<img src="https://mastane.github.io/images/codec.png" width="80%" height="80%">
+<img src="https://mastane.github.io/images/codec.png" width="70%" height="70%">
