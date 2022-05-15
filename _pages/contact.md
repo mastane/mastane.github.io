@@ -5,4 +5,4 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* E-mail: mastane.achab [at] gmail.com
+<img src="https://mastane.github.io/images/codec.png" width="100%" height="100%">
