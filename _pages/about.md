@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Mastane, a *former (since fall 2021)* postdoc researcher in artificial intelligence at the <a href='https://www.upf.edu/'>Universitat Pompeu Fabra</a> (Barcelona)
-among the <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>. My research interests include:
+Welcome! I'm Mastane, a Researcher in artificial intelligence at <a href='https://www.tii.ae/'>TII</a> in Abu Dhabi, UAE.
+My research interests include:
 * ranking by empirical risk minimization
 * multi-armed bandit
 * (distributional) reinforcement learning

@@ -29,9 +29,12 @@ Work experience
   * <a href='https://deepmind.com/'>Google DeepMind</a>, London, UK
   * Supervisor: <a href='https://pro.univ-lille.fr/bilal-piot/'>Bilal Piot</a>
 
-* Fall 2020 to fall 2021: Postdoc
+* 2020-2021: Postdoc
   * <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>, <a href='https://www.upf.edu/web/etic/'>DTIC</a>, <a href='https://www.upf.edu/'>Universitat Pompeu Fabra</a>, Barcelona, Spain
   * Supervisor: <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
+
+* Since 2022: Researcher
+  * <a href='https://www.tii.ae/'>Technology Innovation Institute (TII)</a>, Abu Dhabi, UAE
 
 Skills
 ======
