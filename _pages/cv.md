@@ -39,6 +39,7 @@ Work experience
 Skills
 ======
 * Python
+  * PyTorch
   * TensorFlow
 
 Publications
