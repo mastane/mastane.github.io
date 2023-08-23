@@ -48,4 +48,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<img src="https://mastane.github.io/images/I_review_JMLR.gif" width="40%" height="40%">
+<!-- <img src="https://mastane.github.io/images/I_review_JMLR.gif" width="40%" height="40%"> -->
