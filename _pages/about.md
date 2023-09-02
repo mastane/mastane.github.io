@@ -12,4 +12,4 @@ Welcome! I'm Mastane, an artificial intelligence researcher at <a href='https://
 My research interests include:
 * ranking data
 * (distributional) reinforcement learning
-* the checkered regression model
+* optimization  <!-- the checkered regression model -->
