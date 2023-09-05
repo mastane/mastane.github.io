@@ -10,6 +10,6 @@ redirect_from:
 
 Welcome! I'm Mastane, an artificial intelligence researcher at <a href='https://www.tii.ae/'>TII</a> in Abu Dhabi.
 My research interests include:
-* ranking data
-* (distributional) reinforcement learning
+<!-- * ranking data -->
+* reinforcement learning <!-- (distributional) reinforcement learning -->
 * optimization  <!-- the checkered regression model -->
