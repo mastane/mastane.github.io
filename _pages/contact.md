@@ -10,4 +10,4 @@ author_profile: true
 
 <!-- <img src="https://mastane.github.io/images/codec.png" width="70%" height="70%"> -->
 
-* PSN: Prince_Mastane
+* PSN: Dark_Mastane
