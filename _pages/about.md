@@ -13,3 +13,6 @@ My research interests include:
 <!-- * ranking data -->
 * reinforcement learning <!-- (distributional) reinforcement learning -->
 * optimization  <!-- the checkered regression model -->
+
+
+<img src="https://mastane.github.io/images/rotating_plot_11_title.gif" width="40%" height="40%"> 
