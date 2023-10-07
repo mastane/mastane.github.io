@@ -15,4 +15,4 @@ My research interests include:
 * optimization  <!-- the checkered regression model -->
 
 
-<img src="https://mastane.github.io/images/rotating_plot_11_title.gif" width="40%" height="40%"> 
+<img src="https://mastane.github.io/images/rotating_plot_11_xor.gif" width="100%" height="100%"> 
