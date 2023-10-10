@@ -12,5 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Bestiary"
+    url: /xcb/
+
   - title: "Contact"
     url: /contact/
