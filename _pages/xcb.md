@@ -1,13 +1,13 @@
 ---
 permalink: /xcb/
-title: "Bestiary"
+title: "The Cross-Convex Bestiary (XCB)"
 excerpt: "The Cross-Convex Bestiary"
 author_profile: true
 ---
 
-Bestiary of cross-convex functions with their tangent surfaces: https://github.com/mastane/TheXCB
+Collection of cross-convex functions with their tangent surfaces: [https://github.com/mastane/TheXCB](https://github.com/mastane/TheXCB)
 
-* Gaussian mixture
+* $$\mathcal{G}$$aussian mixture
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Gaussian.gif" width="100%" height="100%">
 
 * Logistic mixture
