@@ -5,7 +5,7 @@ excerpt: "The Cross-Convex Bestiary"
 author_profile: true
 ---
 
-### Collection of cross-convex functions (in magenta) with their tangent surfaces (in green): [https://github.com/mastane/TheXCB](https://github.com/mastane/TheXCB)
+### Collection of cross-convex functions (in magenta) with their tangent surface (in green): [https://github.com/mastane/TheXCB](https://github.com/mastane/TheXCB)
 
 ### The green tangent surface represents the lower bound in a generalized convexity inequality (see Lemma 1 in ["Beyond Log-Concavity: Theory and Algorithm for Sum-Log-Concave Optimization"](https://arxiv.org/abs/2309.15298))
 
