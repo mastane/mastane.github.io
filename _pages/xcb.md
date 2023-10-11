@@ -14,6 +14,7 @@ author_profile: true
 * Compute cross-convex function $F(x,y)=-\log(p(x)+p(y))$
 * Tangent lower bound at point $(a,b)$:
 $$\mathcal{T}_{a,b}(x, y) = F(a,b) + \nabla F(a,b)^\top \begin{pmatrix} x-a \\ y-b \end{pmatrix} - D_{\text{KL}}\left( \begin{pmatrix} \frac{p(a)}{p(a)+p(b)} \\ \frac{p(b)}{p(a)+p(b)} \end{pmatrix} \, \Bigg \| \, \begin{pmatrix} \frac{p(x)}{p(x)+p(y)} \\ \frac{p(y)}{p(x)+p(y)} \end{pmatrix} \right)$$
+* (actually, the negative sign in front of the KL is bad news for the proof of gradient descent...check out my paper to see how to deal with it, by considering a reweighted version of the gradient)
 
 ### $$\mathfrak{B}$$estiary
 
