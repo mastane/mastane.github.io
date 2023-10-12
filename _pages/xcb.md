@@ -18,14 +18,14 @@ $$\mathcal{T}_{a,b}(x, y) = F(a,b) + \nabla F(a,b)^\top \begin{pmatrix} x-a \\ y
 
 ### $$\mathfrak{B}$$estiary
 
-* <u>$$\mathcal{G}$$aussian mixture</u>
+* $$\mathcal{G}$$<u>aussian mixture</u>
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Gaussian.gif" width="100%" height="100%">
 
-* <u>$$\mathcal{L}$$ogistic mixture</u>
+* $$\mathcal{L}$$<u>ogistic mixture</u>
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Logistic.gif" width="100%" height="100%">
 
-* <u>$$\mathcal{H}$$yperbolic $$\mathcal{S}$$ecant mixture</u>
+* $$\mathcal{H}$$<u>yperbolic</u> $$\mathcal{S}$$<u>ecant mixture</u>
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Sech.gif" width="100%" height="100%">
 
-* <u>$$\mathcal{G}$$umbel mixture</u>
+* $$\mathcal{G}$$<u>umbel mixture</u>
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Gumbel.gif" width="100%" height="100%">
