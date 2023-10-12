@@ -6,14 +6,14 @@ main:
 #  - title: "Talks"
 #    url: /talks/
 
-#  - title: "Blog"
-#    url: /year-archive/
+  - title: "Blog"
+    url: /year-archive/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Bestiary"
-    url: /xcb/
+#  - title: "Bestiary"
+#    url: /xcb/
 
   - title: "Contact"
     url: /contact/
