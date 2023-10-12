@@ -1,6 +1,6 @@
 ---
 permalink: /xcb/
-title: "The Cross-Convex Bestiary (XCB)"
+title: "The Cross-Convex Bestiary"
 excerpt: "The Cross-Convex Bestiary"
 author_profile: true
 ---
@@ -18,14 +18,14 @@ $$\mathcal{T}_{a,b}(x, y) = F(a,b) + \nabla F(a,b)^\top \begin{pmatrix} x-a \\ y
 
 ### $$\mathfrak{B}$$estiary
 
-* $$\mathcal{G}$$aussian mixture
+* <u>$$\mathcal{G}$$aussian mixture</u>
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Gaussian.gif" width="100%" height="100%">
 
-* $$\mathcal{L}$$ogistic mixture
+* <u>$$\mathcal{L}$$ogistic mixture</u>
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Logistic.gif" width="100%" height="100%">
 
-* $$\mathcal{H}$$yperbolic $$\mathcal{S}$$ecant mixture
+* <u>$$\mathcal{H}$$yperbolic $$\mathcal{S}$$ecant mixture</u>
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Sech.gif" width="100%" height="100%">
 
-* $$\mathcal{G}$$umbel mixture
+* <u>$$\mathcal{G}$$umbel mixture</u>
 <img src="https://mastane.github.io/images/XCB/gifs/rotating_plot_00_Gumbel.gif" width="100%" height="100%">
