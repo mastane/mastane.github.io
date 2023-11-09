@@ -41,6 +41,7 @@ Skills
 * Python
   * PyTorch
   * TensorFlow
+* Lean
 
 Publications
 ======
