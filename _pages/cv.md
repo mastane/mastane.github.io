@@ -33,7 +33,7 @@ Work experience
   * <a href='https://www.upf.edu/web/ai-ml/'>AI group</a>, <a href='https://www.upf.edu/web/etic/'>DTIC</a>, <a href='https://www.upf.edu/'>Universitat Pompeu Fabra</a>, Barcelona, Spain
   * Supervisor: <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
 
-* Since 2022: Researcher
+* 2022-2024: Researcher
   * <a href='https://www.tii.ae/'>Technology Innovation Institute (TII)</a>, Abu Dhabi, UAE
 
 Skills
