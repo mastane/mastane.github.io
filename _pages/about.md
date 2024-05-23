@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Mastane, an artificial intelligence researcher at <a href='https://www.tii.ae/'>TII</a> in Abu Dhabi.
+Welcome! I'm Mastane, an artificial intelligence researcher.
 My research interests include:
 <!-- * ranking data -->
 * reinforcement learning <!-- (distributional) reinforcement learning -->
