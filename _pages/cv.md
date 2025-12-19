@@ -13,6 +13,7 @@ Download <a href='http://mastane.github.io/files/cv_mastane_achab.pdf'>cv_mastan
 
 Education
 ======
+* MPSI/MP, <a href='https://louislegrand.fr'>Lycée Louis-le-Grand</a>, 2010-2012
 * M.S. in applied maths, <a href='https://www.polytechnique.edu/'>Ecole polytechnique</a>, 2012-2015
 * M.S. in machine learning (<a href='https://www.master-mva.com/'>M2 MVA</a>), <a href='https://ens-paris-saclay.fr/'>Ecole normale superieure de Cachan</a>, 2015-2016
 * Ph.D. in machine learning, <a href='https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci'>LTCI lab</a>, <a href='https://www.telecom-paris.fr/'>Telecom Paris</a>, 2016-2020
