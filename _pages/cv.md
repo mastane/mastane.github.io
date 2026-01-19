@@ -42,6 +42,7 @@ Skills
 * Python
   * PyTorch
   * TensorFlow
+  * Transformers
 <!-- * Lean -->
 
 Publications
