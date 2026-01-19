@@ -35,7 +35,10 @@ Work experience
   * Supervisor: <a href='http://cs.bme.hu/~gergo/'>Gergely Neu</a>
 
 * 2022-2024: Researcher
-  * <a href='https://www.tii.ae/'>Technology Innovation Institute (TII)</a>, Abu Dhabi, UAE
+  * <a href='https://www.tii.ae/'>Technology Innovation Institute</a>, Abu Dhabi, UAE
+
+* 2024-2026: Founder
+  * <a href='https://www.deepgambit.com/'>DeepGambit</a>, Masdar City, UAE
 
 Skills
 ======
