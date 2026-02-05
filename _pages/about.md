@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Mastane, an artificial intelligence researcher. <!-- and founder of <a href='https://www.deepgambit.com/'>Deep Gambit Limited</a>. -->
+Welcome! I'm Mastane, a researcher and founder of <a href='https://www.deepgambit.com/'>DeepGambit</a>.
 My research interests include:
 <!-- * ranking data -->
 * reinforcement learning <!-- (distributional) reinforcement learning -->
