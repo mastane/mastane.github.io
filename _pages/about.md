@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! I'm Mastane, a researcher and founder of <a href='https://www.deepgambit.com/'>DeepGambit</a>.
-My research interests include:
+My research topics are
 * reinforcement learning
 * differentiable logic
 * pseudo-Riemannian optimization
