@@ -11,5 +11,5 @@ redirect_from:
 Welcome! I'm Mastane, a researcher and founder of <a href='https://www.deepgambit.com/'>DeepGambit</a>.
 My research topics are
 * reinforcement learning
-* differentiable logic
+* differentiable algebra
 * pseudo-Riemannian optimization
